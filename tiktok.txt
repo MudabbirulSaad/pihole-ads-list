@@ -1,0 +1,36 @@
+# This blocklist helps Pi-hole's admin restrict access to tiktok and its domains.
+# https://github.com/MudabbirulSaad
+# Last updated: 19 June 2021
+
+0.0.0.0 pull-hls-w5-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-f11-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f1-sg01.tiktokcdn.com
+0.0.0.0 pull-rtmp-f1-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-ab.tiktokcdn.com
+0.0.0.0 pull-flv-l11-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-l1-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-l1-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l1-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-l11-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-l11-va01.tiktokcdn.com
+0.0.0.0 pull-hls-q5-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f16-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l11-va01.tiktokcdn.com
+0.0.0.0 pull-flv-l1-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l11-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-w5-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f11-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f1-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-f1-sg01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l11-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f11-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-f11-va01.tiktokcdn.com
+0.0.0.0 pull-hls-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l11-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f16-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1-va01.tiktokcdn.com
+0.0.0.0 pull-w5-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
