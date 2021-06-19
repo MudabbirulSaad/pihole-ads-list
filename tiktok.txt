@@ -34,6 +34,14 @@
 0.0.0.0 pull-rtmp-l1-va01.tiktokcdn.com
 0.0.0.0 pull-w5-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
+0.0.0.0 pull-q5-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1-gcp01.tiktokcdn.com
+0.0.0.0 pull-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f1-va01.tiktokcdn.com
+0.0.0.0 pull-f5-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f1-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f16-va01.tiktokcdn.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
