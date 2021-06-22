@@ -26,4 +26,5 @@
 0.0.0.0 gdl.masala.sh
 0.0.0.0 socks.sharemasala.com
 0.0.0.0 sharemasala.com
+0.0.0.0 emo.v-mate.mobi
 0.0.0.0 samsung-com.112.2o7.net
