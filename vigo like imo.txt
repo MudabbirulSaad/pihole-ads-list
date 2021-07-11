@@ -28,3 +28,8 @@
 0.0.0.0 sharemasala.com
 0.0.0.0 emo.v-mate.mobi
 0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 lbs.imolive2.com
+0.0.0.0 bglvconf1.azureedge.net
+0.0.0.0 imoconf1.azureedge.net
+0.0.0.0 fgw.imoim.app
+0.0.0.0 sgp.imo.im
