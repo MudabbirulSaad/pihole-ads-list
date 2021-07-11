@@ -3641,3 +3641,8 @@
 0.0.0.0 zttvu.v.bsgslb.com
 0.0.0.0 zttvv.v.bsgslb.com
 0.0.0.0 zttvw.v.bsgslb.com
+0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
+0.0.0.0 pull-hls-l16-va01.tiktokcdn.com
+0.0.0.0 pull-flv-l16-va01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l16-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
