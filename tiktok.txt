@@ -3646,3 +3646,4 @@
 0.0.0.0 pull-flv-l16-va01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l16-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
+0.0.0.0 webcast21-normal-c-alisg.tiktokv.com
