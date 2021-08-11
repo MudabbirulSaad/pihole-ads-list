@@ -2,6 +2,11 @@
 # https://github.com/MudabbirulSaad
 # Last updated: 19 June 2021
 
+0.0.0.0 pull-flv-l1-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-l1-gcp01.ttlivecdn.com
+0.0.0.0 pull-hls-l1-va01.ttlivecdn.com
+0.0.0.0 pull-rtmp-l1-sg01.ttlivecdn.com
 0.0.0.0 pull-lls-l11.tiktokcdn.com
 0.0.0.0 hotapi-sg.tiktokv.com
 0.0.0.0 pull-hls-w5-va01.tiktokcdn.com
