@@ -2,6 +2,7 @@
 # https://github.com/MudabbirulSaad
 # Last updated: 20 June 2021
 
+0.0.0.0 v16.snackvideo.in
 0.0.0.0 static-web.bigolive.tv
 0.0.0.0 imgsnap.bigo.sg
 0.0.0.0 like-gateway.bigo.sg
