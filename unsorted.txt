@@ -1,0 +1,9 @@
+# https://github.com/MudabbirulSaad
+# Last updated: 04 February 2021
+
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 https://metrics1.data.hicloud.com
+0.0.0.0 https://metrics2.data.hicloud.com
+0.0.0.0 https://metrics5.data.hicloud.com 
+0.0.0.0 https://samsung-com.112.2o7.net
