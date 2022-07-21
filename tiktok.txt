@@ -3653,3 +3653,15 @@
 0.0.0.0 pull-rtmp-l16-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
 0.0.0.0 webcast21-normal-c-alisg.tiktokv.com
+0.0.0.0 pull-flv-l1-va01.ttlivecdn.com
+0.0.0.0 pull-flv-l11-va01.ttlivecdn.com
+0.0.0.0 pull-flv-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-f5-va01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-sg01.ttlivecdn.com
+0.0.0.0 pull-flv-l1-sg01.ttlivecdn.com
+0.0.0.0 push-rtmp-l11-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-va01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-flv-l11-gcp01.ttlivecdn.com
+0.0.0.0 pull-f5-gcp01.ttlivecdn.com
