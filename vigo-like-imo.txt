@@ -1,6 +1,6 @@
 # This blocklist helps Pi-hole's admin restrict access to like, imo, vigo and its domains.
 # https://github.com/MudabbirulSaad
-# Last updated: 20 June 2021
+# Last updated: 22 July 2021
 
 0.0.0.0 v16.snackvideo.in
 0.0.0.0 static-web.bigolive.tv
@@ -11,6 +11,8 @@
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 https-api.like.video
 0.0.0.0 bstream.hzmklvdieo.com
+0.0.0.0 bstream.kzhi.tech
+0.0.0.0 api.likee.video
 0.0.0.0 lbs.like.video
 0.0.0.0 api.likee.video
 0.0.0.0 img.like.video
